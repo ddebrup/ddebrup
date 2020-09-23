@@ -20,7 +20,11 @@
 <a href="https://t.me/Deb_rup">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
+<br />
+<br />
+Okay, so lemme introduce myself to you first.........
+I am Debrup Dutta, a computer engineering undergrad @ IIIT Bhubaneswar 🏚️,
+living one day at a time, with a fresh baked cookie. Okay.  And with a coffee.  And maybe some chocolate. But I promise to take my vitamins. 🤪
 <!--
 **ddebrup/ddebrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
