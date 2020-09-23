@@ -1,9 +1,9 @@
 
 ![Header](https://github.com/ddebrup/ddebrup/blob/master/ddebrup.png?raw=true)
 <br>
-<p align="center">
-#Hi there 👋
-</p>
+
+#**Hi there 👋**
+
 
 <!--
 **ddebrup/ddebrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
