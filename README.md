@@ -22,7 +22,7 @@
 </a>
 <br />
 <br />
-Okay, so lemme introduce myself to you first.........
+Okay, to briefly state,
 <br />
 **I am Debrup Dutta, a computer engineering undergrad @ IIIT Bhubaneswar** 🏚️,
 <br />
