@@ -1,6 +1,7 @@
 
-![Header](https://github.com/ddebrup/ddebrup/blob/master/ddebrup.png?raw=true)
-<br>
+![Header](https://github.com/ddebrup/ddebrup/blob/master/ddebrup.png?raw=true) 
+
+<br />
 
 ## Howdy fella! 👋
 ### Hope everything's fine on your side! 😉
@@ -34,6 +35,7 @@ Too much of copying?
 But that's what we are engineers for!🤔
 <br />
 **Okay sorry**, let's hop in straight to a sort of more useful talks 🤫
+<img style="height=2rem;" src="https://github.com/ddebrup/ddebrup/blob/master/unnamed.gif?raw=true">
 <!--
 **ddebrup/ddebrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
