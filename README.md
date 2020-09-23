@@ -24,7 +24,7 @@
 <br />
 Okay, so lemme introduce myself to you first.........
 <br />
-I am Debrup Dutta, a computer engineering undergrad @ IIIT Bhubaneswar 🏚️,
+**I am Debrup Dutta, a computer engineering undergrad @ IIIT Bhubaneswar** 🏚️,
 <br />
 living one day at a time, with a fresh baked cookie. Okay.  And with a coffee.  And maybe some chocolate. But I promise to take my vitamins. 🤪
 <!--
