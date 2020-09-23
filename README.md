@@ -26,7 +26,12 @@ Okay, to briefly state,
 <br />
 **I am Debrup Dutta, a computer engineering undergrad @ IIIT Bhubaneswar** 🏚️,
 <br />
-living one day at a time, with a fresh baked cookie. Okay.  And with a coffee.  And maybe some chocolate. But I promise to take my vitamins. 🤪
+living one day at a time ⌛, with a fresh baked cookie 🍪. Okay.  And with a coffee ☕.  And maybe some chocolate 🍫. But I promise to take my vitamins.🤪
+<br />
+<br />
+Too much of copying?
+But that's what we are engineers for!🤔
+Okay sorry, let's hop in straight to a sort of more useful talks 🤫
 <!--
 **ddebrup/ddebrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
