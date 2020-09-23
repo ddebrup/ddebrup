@@ -1,8 +1,11 @@
 
 ![Header](https://github.com/ddebrup/ddebrup/blob/master/ddebrup.png?raw=true)
 <br>
+<p align="center>
+          <img src="https://www.canva.com/design/DAEIk06iPNk/mqAsGH43cKp11sbN_5iQZg/view?utm_content=DAEIk06iPNk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+</p>
 <p align="center">
-## Hi there 👋
+##Hi there 👋
 </p>
 
 <!--
