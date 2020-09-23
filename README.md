@@ -1,6 +1,8 @@
+<div style="text-align:center>
 ![Header](https://github.com/ddebrup/ddebrup/blob/master/ddebrup.png?raw=true)
 
 ### Hi there 👋
+</div>
 
 <!--
 **ddebrup/ddebrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
