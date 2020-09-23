@@ -1,4 +1,5 @@
-[![Header](https://raw.githubusercontent.com/ddebrup/<OWNER>/<OWNER>/ddebrup.png "Header")]
+![Header](https://github.com/ddebrup/ddebrup/blob/master/ddebrup.png?raw=true)
+
 ### Hi there 👋
 
 <!--
