@@ -1,8 +1,7 @@
 
 ![Header](https://github.com/ddebrup/ddebrup/blob/master/ddebrup.png?raw=true) 
-
+<img style="width=100%;" src="https://github.com/ddebrup/ddebrup/blob/master/ddebrup.png">
 <br />
-
 ## Howdy fella! 👋
 ### Hope everything's fine on your side! 😉
 **Happy Exploring.............** 🙃
