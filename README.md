@@ -1,7 +1,8 @@
 
 ![Header](https://github.com/ddebrup/ddebrup/blob/master/ddebrup.png?raw=true) 
-###The image is pretty hazy,eh?
-###But so is our future, and tbh, this haziness is the reason which makes Hustling more interesting, right?
+<br />
+### The image is pretty hazy,eh?
+### But so is our future, and tbh, this haziness is the reason which makes Hustling more interesting, worthier, right?
 <br />
 ## Howdy fella! 👋
 ### Hope everything's fine on your side! 😉
