@@ -21,10 +21,9 @@
 
 <br />
 
-I am a Machine Learning enthusiast 🚀 sharing fields of interest in the domains of web development🕸️ and cloud support, currently pursing my undergraduate studies🎓 from [IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)🏛.   
-I love exploring in and around new technologies and try deriving ways to implement them into solving real world problems.🤓
-I also have plans of expanding my skillset in the areas of Data Structures and Algorithms in the near future.👨🏻‍💻
+I am a Machine Learning enthusiast 🚀 sharing fields of interest in the domains of web development🕸️ and cloud support, currently pursing my undergraduate studies🎓 from [IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)🏛. I love exploring in and around new technologies and try deriving ways to implement them into solving real world problems.🤓 I also have plans of expanding my skillset in the areas of Data Structures and Algorithms in the near future.👨🏻‍💻
 Beside's programming, 👨🏽‍💼 I enjoy eating food, traveling and designing stuffs around.
+<br />
 <br />
   <img align="right" alt="GIF" src="https://github.com/ddebrup/ddebrup/blob/master/header.gif?raw=true" width="350" height="320" />
   
