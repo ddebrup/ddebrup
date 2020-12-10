@@ -61,8 +61,8 @@ Beside's programming, 👨🏽‍💼 I enjoy eating food, traveling and designi
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddebrup&show_icons=true&hide_border=true" />
-<img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddebrup&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddebrup&show_icons=true&hide_border=true&theme=gotham" />
+<!-- <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddebrup&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
 </details>
 
 <details>	
