@@ -25,6 +25,7 @@
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/d_debrup)
   <a href="mailto:b518020@iiit-bh.ac.in"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
   <img align="right" alt="GIF" src="https://github.com/ddebrup/ddebrup/blob/master/header.gif?raw=true" width="250" height="220" />
+ 
  ![](https://visitor-badge.glitch.me/badge?page_id=ddebrup.ddebrup)
 
 <br />
