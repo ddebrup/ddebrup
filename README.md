@@ -95,10 +95,10 @@ Beside's all this, 👨🏽‍💼 I enjoy eating food, traveling, and designing
   <summary><b>🚧 My Todo-list:</b></summary>
   	
   <ul>
-    <li>🏆  Create 100 PRs </li>         
-    <li>🌸  Create an unending streak of 10 days  </li>
-    <li>✅  Contribute daily </li>  
-    <li>⏳  Complete an entire market ready product all by myself</li> 
+    <li> </li>         
+    <li> </li>
+    <li> </li>  
+    <li> </li> 
   </ul>
 
 </details>
