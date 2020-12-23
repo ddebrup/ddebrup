@@ -55,8 +55,8 @@ Beside's programming, 👨🏽‍💼 I enjoy eating food, traveling and designi
 -->
 
 
-<!--
 
+<!--
 ### Projects and Dev Stuffs:
 
 <details>	
@@ -65,7 +65,8 @@ Beside's programming, 👨🏽‍💼 I enjoy eating food, traveling and designi
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddebrup&show_icons=true&hide_border=true&theme=gotham" />
 <!-- <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddebrup&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
 </details>
-
+-->
+<!--
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
@@ -78,17 +79,19 @@ Beside's programming, 👨🏽‍💼 I enjoy eating food, traveling and designi
 	    <br />
 	</ul>	
 </details>
-
+-->
+<!--
 <details>	
   <br />
   <summary><b>🚧 My Todo-list:</b></summary>
-  	<!-- TODO-lIST:START -->
+  	
   <ul>
     <li>🏆  Create 100 PRs </li>         
     <li>🌸  Create an unending streak of 10 days  </li>
     <li>✅  Contribute daily </li>  
     <li>⏳  Complete an entire market ready product all by myself</li> 
   </ul>
-<!-- TODO-IST:END -->
+
 </details>
-//-->
+-->
+
