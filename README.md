@@ -24,9 +24,9 @@
   [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/debrupdutta11)
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/d_debrup)
   <a href="mailto:b518020@iiit-bh.ac.in"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-  
+  <img align="right" alt="GIF" src="https://github.com/ddebrup/ddebrup/blob/master/header.gif?raw=true" width="250" height="220" />
  ![](https://visitor-badge.glitch.me/badge?page_id=ddebrup.ddebrup)
-<img align="right" alt="GIF" src="https://github.com/ddebrup/ddebrup/blob/master/header.gif?raw=true" width="250" height="220" />
+
 <br />
 
 I am a Machine Learning enthusiast 🚀 also having an interest in the domains of web development🕸️ and cloud services, currently pursuing my undergraduate studies🎓 from [IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)🏛. I love exploring in and around new technologies and try deriving ways to implement them in solving some real-world problems.🤓 
