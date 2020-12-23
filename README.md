@@ -1,5 +1,6 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Debrup Dutta!](https://github.com/ddebrup/)
+<!--
 <a href="https://discord.gg/mQAgFrwM">
   <img align="left" alt="Debrup's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -15,14 +16,21 @@
 <a href="https://www.instagram.com/d_debrup/">
   <img align="left" alt="Debrup's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+-->
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=ddebrup.ddebrup)
+  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/mQAgFrwM)
+  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/DebrupDutta2)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/duttadebrup)
+  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/debrupdutta11)
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/d_debrup)
+  <a href="mailto:b518020@iiit-bh.ac.in"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+  
+ ![](https://visitor-badge.glitch.me/badge?page_id=ddebrup.ddebrup)
 <img align="right" alt="GIF" src="https://github.com/ddebrup/ddebrup/blob/master/header.gif?raw=true" width="250" height="220" />
 <br />
 
-I am a Machine Learning enthusiast 🚀 sharing fields of interest in the domains of web development🕸️ and cloud support, currently pursing my undergraduate studies🎓 from [IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)🏛. I love exploring in and around new technologies and try deriving ways to implement them into solving real world problems.🤓 I also have plans of expanding my skillset in the areas of Data Structures and Algorithms in the near future.👨🏻‍💻
-Beside's programming, 👨🏽‍💼 I enjoy eating food, traveling and designing stuffs around.
+I am a Machine Learning enthusiast 🚀 also having an interest in the domains of web development🕸️ and cloud services, currently pursuing my undergraduate studies🎓 from [IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)🏛. I love exploring in and around new technologies and try deriving ways to implement them in solving some real-world problems.🤓 
+Beside's all this, 👨🏽‍💼 I enjoy eating food, traveling, and designing kinds of stuff around.
 <br />
 <br />
  <!--
