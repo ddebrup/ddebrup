@@ -30,7 +30,7 @@
 
 <br />
 
-I am a Machine Learning enthusiast 🚀 also having an interest in the domains of web development🕸️ and cloud services, currently pursuing my undergraduate studies🎓 from [IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)🏛. I love exploring in and around new technologies and try deriving ways to implement them in solving some real-world problems.🤓 
+I am a Machine Learning enthusiast 🚀 also having interests in the domains of web development🕸️ and cloud services, currently pursuing my undergraduate studies🎓 from [IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)🏛. I love exploring in and around new technologies and try deriving ways to implement them in solving some real-world problems.🤓 
 Beside's all this, 👨🏽‍💼 I enjoy eating food, traveling, and designing kinds of stuff around.
 <br />
 <br />
